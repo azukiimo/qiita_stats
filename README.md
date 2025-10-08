@@ -12,6 +12,10 @@
 
 ## データについて
 * data/minimum_wage_2025.csv
+* data/foreign_visitors_2024.csv 
+* data/inbound_consumption_2024.csv
+
+
 
 ### 出典
 * 最低賃金のデータは厚生労働省ホームページ[（令和７年度地域別最低賃金の全国一覧）](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/index.html)から取得・加工したものを利用しています。

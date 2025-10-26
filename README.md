@@ -7,8 +7,8 @@
 * quantile_regression.ipynb : [分位点回帰（線形モデル）](https://qiita.com/AzukiImo/items/871f23c0e95fa69ba6b7)
 * quantile_nonlinear_regression.ipynb : [分位点回帰（非線形モデル）](https://qiita.com/AzukiImo/items/915331f703363cd2b14b)
 * visualization_wage_japanmap.ipynb : [japanmapによる可視化](https://qiita.com/AzukiImo/items/c015ce9b40b08ee5a4f4)
-* foreign_visitors.ipynb : plotlyによる可視化
-* inbound_consumption.ipynb : plotlyによる可視化
+* foreign_visitors.ipynb : [plotlyによる可視化](https://qiita.com/AzukiImo/items/87d78b913d872206eda5)
+* inbound_consumption.ipynb : [plotlyによる可視化](https://qiita.com/AzukiImo/items/87d78b913d872206eda5)
 
 ## データについて
 * data/minimum_wage_2025.csv
